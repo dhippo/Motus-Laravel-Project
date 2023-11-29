@@ -18,7 +18,7 @@ Le site est composé de 3 pages principales :
 ## Installation
 
 ### Suivre les instructions d'installation 
-[en allant ou cliquant sur le lien : https://github.com/alanohayon/ProjetPhpLaravel/blob/fullbranch/installation/README.md](https://github.com/alanohayon/ProjetPhpLaravel/blob/fullbranch/installation/README.md "installation")
+[en allant ou cliquant sur le lien : https://github.com/dhippo/Motus-Laravel-Project/blob/master/installation/README.md](https://github.com/dhippo/Motus-Laravel-Project/blob/master/installation/README.md "installation")
 
 
 ## Screenshots
